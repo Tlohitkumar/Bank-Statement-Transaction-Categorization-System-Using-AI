@@ -17,11 +17,11 @@ User-friendly web interface
 
 🛠 Tech Stack
 
-Backend: Java, Spring Boot, REST APIs
+Backend: Java, Spring Boot, REST APIs, Spring Data JPA
 
-AI: NLP / Machine Learning for transaction classification
+AI: NLP / Machine Learning for transaction classification (ChatGPT), OAUTH2
 
-Database: MySQL
+Database: MySQL, PostgreSQL
 
 Frontend: HTML, CSS, JavaScript
 
